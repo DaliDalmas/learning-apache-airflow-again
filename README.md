@@ -1,6 +1,6 @@
 # learning-apache-airflow-again
 
-Here are the steps that Ifound useful instlling apache airflow
+Here are the steps that I found useful installing apache airflow
 
 1. I used pyenv to install `python 3.10.0` on the local folder using `pyenv local 3.10.0`
 2. Created a virtual environment using `python -m venv venv`
